@@ -22,7 +22,7 @@ GlosariumApp/
     ├── StatisticsForm.cs               # Statistik & Analisis (BARU)
     ├── ActivityLogForm.cs              # Riwayat aktivitas (BARU)
     └── FileOperationsForm.cs           # Import/Export CSV (BARU)
-
+```
 
 
 ## **📊 TABEL KOMPONEN**
