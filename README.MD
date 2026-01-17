@@ -1,4 +1,31 @@
-## **📊 PEMETAAN PERSYARATAN**
+
+## 📁 Struktur Project GlosariumApp
+
+```text
+GlosariumApp/
+├── Program.cs                          # Entry point aplikasi
+│
+├── Models/
+│   ├── Term.cs                         # Model data istilah + DateTime
+│   ├── QuizSettings.cs                 # Model pengaturan kuis (BARU)
+│   └── ActivityLog.cs                  # Model log aktivitas (BARU)
+│
+├── Data/
+│   ├── TermRepository.cs               # Repository data + File Operations
+│   └── StatisticsCalculator.cs         # Kalkulator statistik (BARU)
+│
+└── Forms/
+    ├── MainMenuForm.cs                 # Menu utama + Real-time clock
+    ├── GlosariumForm.cs                # CRUD Glosarium + Print System
+    ├── QuizForm.cs                     # Kuis interaktif + Timer
+    ├── TermDialog.cs                   # Dialog input/edit term
+    ├── StatisticsForm.cs               # Statistik & Analisis (BARU)
+    ├── ActivityLogForm.cs              # Riwayat aktivitas (BARU)
+    └── FileOperationsForm.cs           # Import/Export CSV (BARU)
+
+
+
+## **📊 TABEL KOMPONEN**
 
 | No | Persyaratan | Status | File Utama | Line / Method |
 |----|-------------|--------|------------|---------------|
