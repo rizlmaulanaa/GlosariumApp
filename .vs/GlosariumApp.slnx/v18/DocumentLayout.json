@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\mainmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\data\\termrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\data\\termrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\fileoperationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\fileoperationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\models\\quizsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\models\\quizsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\activitylogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\activitylogform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\models\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\glosariumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\glosariumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\data\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\data\\statisticscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\glosariumapp\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\statisticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\models\\term.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\forms\\termdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\termdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\glosariumapp\\forms\\termdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\termdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\glosariumapp\\forms\\glosariumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\forms\\glosariumform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|c:\\users\\lenovo\\desktop\\glosariumapp\\glosariumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6591B142-DCB5-DA6A-7522-7B3209413FE1}|GlosariumApp\\GlosariumApp.csproj|solutionrelative:glosariumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileOperationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\FileOperationsForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\FileOperationsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\FileOperationsForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\FileOperationsForm.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAwE0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:33:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityLogForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\ActivityLogForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\ActivityLogForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\ActivityLogForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\ActivityLogForm.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAUwLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:33:17.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\StatisticsForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\StatisticsForm.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAQwDoBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:32:22.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StatisticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\StatisticsForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\StatisticsForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\StatisticsForm.cs [Design]",
+              "RelativeToolTip": "GlosariumApp\\Forms\\StatisticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T03:32:12.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\QuizSettings.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Models\\QuizSettings.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\QuizSettings.cs",
+              "RelativeToolTip": "GlosariumApp\\Models\\QuizSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:09:37.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Models\\ActivityLog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\ActivityLog.cs",
+              "RelativeToolTip": "GlosariumApp\\Models\\ActivityLog.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:09:14.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatisticsCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Data\\StatisticsCalculator.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Data\\StatisticsCalculator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Data\\StatisticsCalculator.cs",
+              "RelativeToolTip": "GlosariumApp\\Data\\StatisticsCalculator.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAuwH8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:08:08.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TermRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Data\\TermRepository.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Data\\TermRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Data\\TermRepository.cs",
+              "RelativeToolTip": "GlosariumApp\\Data\\TermRepository.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAqwDABAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:51:48.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TermDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\TermDialog.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\TermDialog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\TermDialog.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\TermDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:51:27.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TermDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\TermDialog.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\TermDialog.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlosariumApp\\GlosariumApp\\Forms\\TermDialog.cs [Design]",
+              "RelativeToolTip": "..\\..\\Videos\\pemvis\\GlosariumApp\\GlosariumApp\\Forms\\TermDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T08:10:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\QuizForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\QuizForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\QuizForm.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAqwCkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:34:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\MainMenuForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\MainMenuForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\MainMenuForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\MainMenuForm.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAqwPAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:33:19.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlosariumForm.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\GlosariumForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\GlosariumForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\GlosariumForm.cs",
+              "RelativeToolTip": "GlosariumApp\\Forms\\GlosariumForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwGQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:32:40.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlosariumForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Forms\\GlosariumForm.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Forms\\GlosariumForm.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Videos\\pemvis\\GlosariumApp\\GlosariumApp\\Forms\\GlosariumForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Videos\\pemvis\\GlosariumApp\\GlosariumApp\\Forms\\GlosariumForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:32:37.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Term.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\Term.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Models\\Term.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Models\\Term.cs",
+              "RelativeToolTip": "GlosariumApp\\Models\\Term.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:32:10.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Program.cs",
+              "RelativeDocumentMoniker": "GlosariumApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\GlosariumApp\\GlosariumApp\\Program.cs",
+              "RelativeToolTip": "GlosariumApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T03:36:57.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
